@@ -1,7 +1,7 @@
 # Parser
 PHP Parser Class
 
-## Example Usage
+## Example usage of this class is as follows:
 
 ```php
 $parser = new Parser("This is a sample text for parsing.\nIt has two lines.");
