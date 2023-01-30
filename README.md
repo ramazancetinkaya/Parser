@@ -36,3 +36,13 @@ $parser = new Parser("This is a sample text for parsing. It has two lines.");
 $regex_match = $parser->getRegexMatch($regex);
 print_r($regex_match);
 ```
+
+### Authors
+
+**Ramazan Çetinkaya**
+
+- [github/ramazancetinkaya](https://github.com/ramazancetinkaya)
+
+### License
+
+Copyright © 2023, [Ramazan Çetinkaya](https://github.com/ramazancetinkaya).
