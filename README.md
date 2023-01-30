@@ -1,5 +1,4 @@
 # Parser
-PHP Parser Class
 
 ## Example usage of this class is as follows:
 
